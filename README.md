@@ -9,7 +9,7 @@
 
 ## Un poco sobre mi...
 
-Me crie en Puerto Montt y llegué a Santiago a las 13 años, tengo experiencia manteniendo y armando computadores dónde muchas veces se me echaba a perder algo y no quedaba otra que aprender a ver que estaba mal<s>Te estoy mirando a ti elamigos</s>. <br> <br>Actualmente estudiando Licenciatura en Ingenieria en ciencias de datos.
+Me crie en Puerto Montt y llegué a Santiago a las 13 años, tengo experiencia manteniendo y armando computadores dónde muchas veces se me echaba a perder algo y no quedaba otra que aprender a ver que estaba mal <s>Te estoy mirando a ti elamigos</s>. <br> <br>Actualmente estudiando Licenciatura en Ingenieria en ciencias de datos.
 
 ## Experiencia en:
 
